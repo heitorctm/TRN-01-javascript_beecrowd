@@ -25,7 +25,3 @@ The goal of this repository is to document my learning process while building a 
 ## Language
 
 - JavaScript
-
-## Author
-
-Heitor Teixeira
